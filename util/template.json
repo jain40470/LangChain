@@ -1,0 +1,16 @@
+{
+    "name": null,
+    "input_variables": [
+        "content",
+        "language"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": " \n    Transalte the following content into {language}\n    here is the content : {content}\n     ",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}

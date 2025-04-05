@@ -1,0 +1,2 @@
+HumanMessage( content = "I want to lose weight. What diet should I follow?")
+AIMessage(content = "A balanced dietcan help.")
