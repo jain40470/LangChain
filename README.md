@@ -21,8 +21,7 @@ LangChain supports both Python and JavaScript, offering flexibility for develope
 ### Prerequisites
 
 - Python 3.7 or higher
-- pip package manager
-
+  
 ### Installation
 
 1. **Clone the repository:**
